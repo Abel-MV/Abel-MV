@@ -27,13 +27,19 @@ A self-hosted AI environment built on Kali Linux using Docker, Ollama, Open WebU
 
 Includes system architecture, deployment instructions, security considerations and ten documented validation tests.
 
+### 🐍 [Security Scripts & Automation](https://github.com/Abel-MV/security-scripts)
+
+A collection of cybersecurity scripts and automation tools, starting with Python and designed to expand to other programming languages.
+
+Currently includes **Nmap Reconnaissance Tool** and **File Integrity Checker**, with complete source code, technical documentation, usage examples and supporting test evidence.
+
 ## What I'm Working On
 
 My portfolio includes practical work involving:
 
 - Network reconnaissance, traffic analysis and firewall configuration.
 - Digital forensics investigations and security labs.
-- Python tools for network reconnaissance and file integrity verification.
+- Development of security scripts and automation tools.
 - Local AI infrastructure, document retrieval and security research.
 
 I document my projects, configurations, practical results and lessons learned as I continue developing my technical skills.
