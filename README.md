@@ -13,6 +13,20 @@ I enjoy exploring how systems work, understanding security challenges and develo
 
 I'm still exploring different areas of cybersecurity before deciding where to specialise.
 
+## Featured Projects
+
+### 🛡️ [Network Security Projects](https://github.com/Abel-MV/network-security-projects)
+
+Three practical projects covering network reconnaissance and service enumeration, network traffic analysis with Wireshark, and firewall configuration and traffic filtering.
+
+Includes technical documentation, commands, analysis and supporting evidence.
+
+### 🧠 [Local AI Security Lab](https://github.com/Abel-MV/local-ai-security-lab)
+
+A self-hosted AI environment built on Kali Linux using Docker, Ollama, Open WebUI and Qdrant, with NVIDIA GPU acceleration and retrieval-augmented generation (RAG).
+
+Includes system architecture, deployment instructions, security considerations and ten documented validation tests.
+
 ## What I'm Working On
 
 My portfolio includes practical work involving:
@@ -20,9 +34,9 @@ My portfolio includes practical work involving:
 - Network reconnaissance, traffic analysis and firewall configuration.
 - Digital forensics investigations and security labs.
 - Python tools for network reconnaissance and file integrity verification.
-- A local AI security lab built using Docker, Ollama, Open WebUI and Qdrant.
+- Local AI infrastructure, document retrieval and security research.
 
-I'll be publishing selected projects, technical documentation and code here as I continue learning.
+I document my projects, configurations, practical results and lessons learned as I continue developing my technical skills.
 
 ## My Approach
 
