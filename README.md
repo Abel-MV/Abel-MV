@@ -33,6 +33,12 @@ A collection of cybersecurity scripts and automation tools, starting with Python
 
 Currently includes **Nmap Reconnaissance Tool** and **File Integrity Checker**, with complete source code, technical documentation, usage examples and supporting test evidence.
 
+### 🔍 [Digital Forensics Projects](https://github.com/Abel-MV/digital-forensics-projects)
+
+A collection of practical digital forensics investigations using training datasets and forensic analysis tools.
+
+Currently includes **Network Forensics Investigation — NetSupport RAT**, covering PCAP analysis with Wireshark and TShark, suspicious network communications, host identification and supporting evidence.
+
 ## What I'm Working On
 
 My portfolio includes practical work involving:
